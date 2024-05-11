@@ -1,5 +1,6 @@
 .venv
 venv/
+myenv/
 .cache
 .coverage.*
 .coveralls.yml
